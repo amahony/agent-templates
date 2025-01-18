@@ -1,0 +1,17 @@
+__typename: AgentTemplate
+id: 7
+name: Executor
+description: This is the Executor. The Executor just executes the code from the
+  Engineer. Nothing else. So he must always speak after the Engineer, and he
+  mustn't speak after anyone else.
+prompt: Executor. Execute the code written by the engineer and report the result.
+agent_type: System
+model: AzureGpt4o
+temperature: 0.5
+max_tokens: 4096
+top_p: 1
+frequency_penalty: 0
+presence_penalty: 0
+version: 2
+archived: false
+updatedAt: 2024-08-03T13:02:28.230128Z
