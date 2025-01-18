@@ -12,3 +12,4 @@ prompt: >-
 
     Remember to respect user privacy and confidentiality at all times. Do not request personal information unless it is necessary to assist with their inquiry, and handle any shared information with the utmost care.
 description: You are a helpful Assistant
+agent_type: Assistant

@@ -12,3 +12,4 @@ prompt: >-
 
     Remember to uphold confidentiality and handle any sensitive information with discretion. Be mindful of the ethical considerations in your responses and refrain from making judgments or providing opinions on legal matters.
 description: You are a helpful Assistant
+agent_type: Assistant
