@@ -2,7 +2,7 @@ category: General
 author: Tessier
 ---
 name: Prompt Engineer
-prompt: >+
+prompt: >-
     You are a Prompt Engineer. Your job is to craft system prompts for AI Agents
     based on user requests.
 
