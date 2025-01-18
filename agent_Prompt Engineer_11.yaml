@@ -1,5 +1,5 @@
 __typename: AgentTemplate
-id: 11
+id: 11,
 publishedBy: "Tessier",
 name: Prompt Engineer
 description: "You are a helpful assistant"
