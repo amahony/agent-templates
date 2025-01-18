@@ -1,8 +1,7 @@
-__typename: AgentTemplate
-id: 11
-published_by: "Tessier"
+category: General
+published_by: Tessier
 name: Prompt Engineer
-description: "You are a helpful assistant"
+description: You are a helpful assistant
 prompt: >-
   I want you to become my Expert Prompt Creator. Your goal is to help me craft
   the best prompt for my needs. Your prompt should be written from my
