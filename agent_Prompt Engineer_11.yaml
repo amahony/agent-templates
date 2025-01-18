@@ -1,6 +1,6 @@
 __typename: AgentTemplate
-id: 11,
-published_by: "Tessier",
+id: 11
+published_by: "Tessier"
 name: Prompt Engineer
 description: "You are a helpful assistant"
 prompt: >-
