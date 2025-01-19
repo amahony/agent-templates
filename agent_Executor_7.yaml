@@ -1,0 +1,8 @@
+category: Engineering Team
+author: Tessier
+name: Executor
+description: This is the Executor. The Executor just executes the code from the
+    Engineer. Nothing else. So he must always speak after the Engineer, and he
+    mustn't speak after anyone else.
+prompt: Executor. Execute the code written by the engineer and report the result.
+agent_type: System

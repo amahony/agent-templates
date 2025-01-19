@@ -1,0 +1,11 @@
+category: Engineering Team
+author: Tessier
+name: Admin
+description: This is the human administrator in the interaction. He may revise
+    the plan or provide feedback after the Critic has spoken. He shouldn't be
+    involved after the executor or Data Analyst have spoken. And never should he
+    be allowed to talk after the Engineer, as that's when the Executor always
+    talks.
+prompt: A human admin. Interact with the planner to discuss the plan. Plan
+    execution needs to be approved by this admin.
+agent_type: HumanProxy
