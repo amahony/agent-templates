@@ -7,7 +7,6 @@ description: >-
 provider: anthropic
 model: claude-sonnet-5
 modelParameters:
-  temperature: 0.7
   max_tokens: 4096
 defaultAutonomy: manual
 tools:
