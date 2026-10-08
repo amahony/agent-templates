@@ -1,5 +1,6 @@
 category: Engineering Team
 author: Omni
+version: 1.0.0
 name: Planner
 description: >-
   Turns a request into a step-by-step plan, gets it approved by a person, and

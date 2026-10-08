@@ -3,6 +3,7 @@ name: onboarding-guide
 description: Walk a new team member through how the team works, one step at a time, using the onboarding checklist in this skill. Use when someone says they are new, starting soon, or asks where to begin.
 license: MIT
 metadata:
+  version: "1.0.0"
   author: Omni
   category: People
 ---

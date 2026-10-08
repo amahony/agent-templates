@@ -3,6 +3,7 @@ name: translation-style
 description: Translate text following the organisation's translation rules, glossary and formality level for each language. Use when the user asks to translate, localise or check a translation.
 license: MIT
 metadata:
+  version: "1.0.0"
   author: Omni
   category: Writing
 ---

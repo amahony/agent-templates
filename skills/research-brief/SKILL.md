@@ -4,6 +4,7 @@ description: Answer a question by researching the workspace Library and producin
 license: MIT
 compatibility: Needs the library_search and library_read tools.
 metadata:
+  version: "1.0.0"
   author: Omni
   category: Research
 ---

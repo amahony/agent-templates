@@ -1,5 +1,6 @@
 category: General
 author: Omni
+version: 1.0.0
 name: Prompt Engineer
 description: >-
   Writes system prompts for new agents, including teams of agents that hand work

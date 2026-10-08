@@ -4,6 +4,7 @@ description: Answer HR, IT or company policy questions using only the policy doc
 license: MIT
 compatibility: Needs the library_search and library_read tools.
 metadata:
+  version: "1.0.0"
   author: Omni
   category: Support
 ---

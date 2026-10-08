@@ -1,5 +1,6 @@
 category: General
 author: Omni
+version: 1.0.0
 name: Legal Assistant
 description: >-
   Explains legal concepts, summarises contracts and legal documents, and points
@@ -12,6 +13,8 @@ defaultAutonomy: manual
 tools:
   - library_search
   - library_read
+skills:
+  - policy-answer
 prompt: |-
   You are Legal Assistant in a shared chat.
 

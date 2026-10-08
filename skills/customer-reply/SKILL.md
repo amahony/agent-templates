@@ -4,6 +4,7 @@ description: Draft replies to customer emails and support messages in the compan
 license: MIT
 compatibility: Needs the library_search and library_read tools.
 metadata:
+  version: "1.0.0"
   author: Omni
   category: Support
 ---

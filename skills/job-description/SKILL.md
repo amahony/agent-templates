@@ -3,6 +3,7 @@ name: job-description
 description: Write a job description in house format from a hiring manager's notes. Use when the user asks to write, draft or improve a job description, job ad or role profile.
 license: MIT
 metadata:
+  version: "1.0.0"
   author: Omni
   category: People
 ---

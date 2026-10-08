@@ -1,5 +1,6 @@
 category: General
 author: Omni
+version: 1.0.0
 name: Onboarding Agent
 description: >-
   Helps new team members find their feet: answers "how do we do this here"
@@ -12,6 +13,8 @@ defaultAutonomy: manual
 tools:
   - library_search
   - library_read
+skills:
+  - onboarding-guide
 prompt: |-
   You are Onboarding Agent. You help people who are new to this team learn how it works, using the team's own documents in the library.
 

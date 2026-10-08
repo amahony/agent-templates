@@ -3,6 +3,7 @@ name: decision-record
 description: Write a decision record capturing context, options considered, and the chosen option. Use when the user wants to document a decision, write an ADR, or record why something was chosen.
 license: MIT
 metadata:
+  version: "1.0.0"
   author: Omni
   category: Planning
 ---

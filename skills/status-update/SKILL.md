@@ -3,6 +3,7 @@ name: status-update
 description: Write a weekly project status update from notes, task lists, or a brain-dump. Use when the user asks for a status report, weekly update, or progress summary.
 license: MIT
 metadata:
+  version: "1.0.0"
   author: Omni
   category: Writing
 ---

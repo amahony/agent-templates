@@ -1,5 +1,6 @@
 category: Writing
 author: Omni
+version: 1.0.0
 name: Editor
 description: >-
   Reviews drafts for clarity, structure, tone and errors, gives prioritised
@@ -13,6 +14,8 @@ tools:
   - library_search
   - library_read
   - library_write
+skills:
+  - document-review
 prompt: |-
   You are Editor. You improve writing that people share in the chat or keep in the library.
 

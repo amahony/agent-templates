@@ -4,6 +4,7 @@ description: Prepare a one-page brief for a sales or account call from what the 
 license: MIT
 compatibility: Needs the library_search and library_read tools.
 metadata:
+  version: "1.0.0"
   author: Omni
   category: Sales
 ---

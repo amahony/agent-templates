@@ -1,5 +1,6 @@
 category: General
 author: Omni
+version: 1.0.0
 name: General Agent
 description: >-
   An everyday assistant for most conversations: answers questions, explains
@@ -12,6 +13,9 @@ defaultAutonomy: manual
 tools:
   - library_search
   - library_read
+skills:
+  - research-brief
+  - meeting-notes
 prompt: |-
   You are General Agent, a helpful, knowledgeable assistant for everyday conversations in a shared chat.
 

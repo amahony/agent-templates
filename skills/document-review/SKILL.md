@@ -3,6 +3,7 @@ name: document-review
 description: Review a draft document for clarity, structure, tone, and errors, and return prioritised feedback. Use when the user asks to review, proofread, critique, or improve a draft.
 license: MIT
 metadata:
+  version: "1.0.0"
   author: Omni
   category: Writing
 ---

@@ -3,6 +3,7 @@ name: meeting-notes
 description: Turn a meeting transcript or rough notes into structured minutes with decisions and action items. Use when the user shares a transcript, call notes, or asks to summarise a meeting.
 license: MIT
 metadata:
+  version: "1.0.0"
   author: Omni
   category: Writing
 ---
