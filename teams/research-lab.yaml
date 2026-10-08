@@ -1,0 +1,11 @@
+id: research-lab
+version: 1.0.0
+name: Research Lab
+category: Work
+description: Research, analyze and challenge findings.
+coordinator: researcher
+agents:
+- researcher
+- data-analyst
+- critic
+starterPrompt: Help us research a question and test what we find.

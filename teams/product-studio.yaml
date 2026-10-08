@@ -1,0 +1,12 @@
+id: product-studio
+version: 1.0.0
+name: Product Studio
+category: Work
+description: Turn product ideas into actionable designs.
+coordinator: product-manager
+agents:
+- product-manager
+- ux-designer
+- engineer
+- critic
+starterPrompt: Help us turn our product idea into a plan we can build.

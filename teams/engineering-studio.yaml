@@ -1,0 +1,12 @@
+id: engineering-studio
+version: 1.0.0
+name: Engineering Studio
+category: Work
+description: Plan, build and review software.
+coordinator: planner
+agents:
+- planner
+- engineer
+- data-analyst
+- critic
+starterPrompt: Help us plan and build our next feature.

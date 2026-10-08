@@ -1,0 +1,11 @@
+id: community-circle
+version: 1.0.0
+name: Community Circle
+category: Community
+description: Run a welcoming, well-organized community.
+coordinator: community-host
+agents:
+- community-host
+- group-facilitator
+- conversation-guide
+starterPrompt: Help us welcome new members and plan our next get-together.

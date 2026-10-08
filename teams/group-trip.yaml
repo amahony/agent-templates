@@ -1,0 +1,11 @@
+id: group-trip
+version: 1.0.0
+name: Group Trip
+category: Personal
+description: Plan a trip with shared constraints.
+coordinator: travel-planner
+agents:
+- travel-planner
+- planner
+- group-facilitator
+starterPrompt: Help us plan a trip that works for everyone.

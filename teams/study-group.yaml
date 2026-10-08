@@ -1,0 +1,11 @@
+id: study-group
+version: 1.0.0
+name: Study Group
+category: Learn
+description: Learn collaboratively.
+coordinator: study-buddy
+agents:
+- study-buddy
+- tutor
+- researcher
+starterPrompt: Help us make a study plan for our next exam.

@@ -1,0 +1,11 @@
+id: game-night
+version: 1.0.0
+name: Game Night
+category: Fun
+description: Run fun group games and stories.
+coordinator: trivia-host
+agents:
+- trivia-host
+- game-master
+- storyteller
+starterPrompt: Start our game night with a warm-up trivia round.

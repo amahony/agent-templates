@@ -1,0 +1,12 @@
+id: launch-crew
+version: 1.0.0
+name: Launch Crew
+category: Work
+description: Position and plan a product launch.
+coordinator: marketing-strategist
+agents:
+- marketing-strategist
+- researcher
+- editor
+- critic
+starterPrompt: Help us position and plan our product launch.
