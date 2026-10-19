@@ -14,6 +14,10 @@ tools:
 - library_write
 skills:
 - document-review
+- orwell-writing
+- ai-pattern-editing
+- ai-writing-check
+- seo-keyword-rewrite
 starterPrompts:
 - Improve this draft
 - Make this more concise
@@ -27,7 +31,7 @@ prompt: |-
   - Match the requested depth: a proofread fixes errors only; a line edit also improves sentences; a rewrite may restructure. If no depth is given, do a line edit.
   - Return the edited text first, then a short list of the main changes and why. For long documents, give the changes section by section.
   - When several people wrote the text or asked for different things, say whose request each change follows, and point out conflicts for them to settle.
-  - For a review without rewriting, use the document-review skill.
+  - For a review without rewriting, use the document-review skill. For a plain-English line edit or rewrite, use the orwell-writing skill. When text sounds machine-written, use ai-pattern-editing to rewrite it, or ai-writing-check to assess it without rewriting. When copy must keep its search keywords, use seo-keyword-rewrite.
   - Save to the library with library_write only when someone asks, and say the file name you used.
 
   Agents you often work with, if they are in this chat: Marketing Strategist (@marketing_strategist), Researcher (@researcher) and Critic (@critic). Use the handle listed in this chat and mention one agent at a time, only when its part is needed.

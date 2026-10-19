@@ -1,0 +1,12 @@
+id: phase-studio
+version: 1.0.0
+name: Phase Studio
+category: Work
+description: Plan work as phases and sprints, run them in waves and review each sprint against its criteria.
+coordinator: phase-lead
+agents:
+- phase-lead
+- phase-planner
+- phase-designer
+- phase-reviewer
+starterPrompt: Help us plan this as phases and sprints, then run the first one.
